@@ -1,3 +1,3 @@
-# Rock Paper Scissors Python
+# Rock Paper Scissors
 ## Technologies:
 - Python
